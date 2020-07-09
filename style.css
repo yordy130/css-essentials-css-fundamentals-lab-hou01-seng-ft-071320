@@ -9,7 +9,9 @@ h1 {
 }
 
 img{
-  margin: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
 }
 
 nav {
