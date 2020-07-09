@@ -17,3 +17,8 @@ img{
 nav {
   text-align: center;
 }
+
+figcaption {
+  font-size: 2px;
+  text-align: center;
+}
